@@ -16,6 +16,14 @@ local Translations = {
         ["make_grape_juice"] = "[E] Göra druvjuice",
         ["countdown"] = "Tid kvar: %{time}s",
         ['cancel_task'] = "Du avbröt en uppgift"
+    },
+    text = {
+        ["start_shift"] = "Du har börjat ditt skift på vingården!",
+        ["end_shift"] = "Ditt skift på vingården har avslutats!",
+        ["valid_zone"] = "Giltig zon!",
+        ["invalid_zone"] = "Ogiltig zon!",
+        ["zone_entered"] = "Gick in i zon %{zone}",
+        ["zone_exited"] = "Gick ut ur zon %{zone}",
     }
 }
 
